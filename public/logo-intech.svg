@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <circle cx="100" cy="100" r="100" fill="#1a1d23"/>
+  <text x="100" y="115" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-weight="700" font-size="52" fill="#ffffff" letter-spacing="-1">Intech</text>
+  <circle cx="155" cy="112" r="5" fill="#00c853"/>
+</svg>
